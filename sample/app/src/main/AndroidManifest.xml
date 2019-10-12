@@ -38,7 +38,7 @@
 
         <meta-data
             android:name="com.dji.sdk.API_KEY"
-            android:value="Please enter your App Key here." />
+            android:value="309c4786edf2c83dd3cf017b" />
 
         <!-- Here Maps -->
         <meta-data android:name="com.here.android.maps.appid"
